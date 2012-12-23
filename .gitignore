@@ -1,5 +1,9 @@
-
-
-target/
-
-.cloudbees-application
+.project
+.settings
+.classpath
+target
+BACKLOG
+FEFLOG
+TODO
+bin
+.checkstyle
